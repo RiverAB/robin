@@ -1,0 +1,4 @@
+/vendor
+/dev-modules
+composer.lock
+dev-modules.php

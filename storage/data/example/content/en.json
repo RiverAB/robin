@@ -1,0 +1,55 @@
+{
+    "sections": {
+        "header": {
+            "hero_text": "Robin CMS",
+            "hero_tagline": "Your side kick for your one page site!",
+            "hero_image": "\/uploads\/robin-header.jpg",
+            "hero_bg_color": "#111",
+            "visibility": "1"
+        },
+        "section-1": {
+            "title": "Section 1",
+            "test": [
+                "first choice"
+            ],
+            "radio": "second choice",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed dui eget ligula consectetur maximus. Nullam in quam varius, vehicula metus at, scelerisque leo. Phasellus aliquam bibendum tortor, sit amet sollicitudin ipsum pulvinar ut. Integer tincidunt tellus a erat convallis, id tempus tellus efficitur. Quisque vel risus rhoncus, tristique tellus quis, facilisis lacus. Etiam erat urna, accumsan a auctor quis, mattis vel purus. Nam molestie finibus metus ac ultrices. In imperdiet eros et dolor vulputate, sit amet vestibulum est imperdiet. Ut et sapien ac metus lacinia blandit. Pellentesque faucibus non massa a condimentum. Praesent tempor, justo at finibus dictum, sapien nunc luctus erat, ac porttitor est ex ut diam. Duis dictum rhoncus turpis. Cras vitae orci vitae felis interdum gravida. Morbi ac luctus nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras pretium egestas nunc, sit amet interdum massa tristique nec.<\/p>\r\n\r\n<p>Curabitur ac lorem vitae lacus sodales accumsan id et risus. Aenean vitae venenatis tellus. Aenean pulvinar, justo id pellentesque sollicitudin, magna justo faucibus mi, sed blandit orci nisl sed justo. Aenean auctor tellus metus, et posuere magna aliquet vitae. Aliquam luctus viverra orci, id efficitur eros molestie et. Praesent dapibus ex ante, tincidunt tristique erat scelerisque eget. Aliquam varius odio et elit ultricies vestibulum. Ut et tortor a est efficitur sagittis. Cras vestibulum lorem vitae erat scelerisque, sed gravida neque vehicula. Ut convallis ante sed ligula tincidunt dictum. Aliquam hendrerit viverra nulla ac accumsan. Nullam consectetur tellus sagittis sapien suscipit, vitae laoreet orci scelerisque. Fusce fermentum massa est, id imperdiet nunc rhoncus vel. Mauris auctor, mauris sed faucibus auctor, quam justo facilisis est, ac interdum mi nunc vel ligula. Fusce at orci non magna ultricies placerat sed iaculis ante. Vivamus et justo pulvinar nunc sodales faucibus.<\/p>"
+        },
+        "section-2": {
+            "title": "Section 2",
+            "content": "<p>Maecenas dapibus sollicitudin justo sed vestibulum. In bibendum suscipit luctus. Nulla gravida nisi sem, et rhoncus mauris congue et. Aliquam ornare nulla nunc, id gravida augue consequat ut. Nullam nisl nibh, dictum vel dui vitae, laoreet maximus tortor. Sed tincidunt tempus luctus. Sed tincidunt sit amet risus ut tincidunt. Nullam ut consectetur ipsum, nec volutpat turpis. Morbi molestie posuere lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in hendrerit sapien. Nam tincidunt lorem eget tortor tristique, a rutrum sapien suscipit. Phasellus semper eu ipsum vel facilisis. Vivamus dapibus urna et mi imperdiet dapibus. Proin nec quam nec metus ultrices viverra.<\/p><p>Suspendisse pellentesque molestie lorem eget porta. Duis at tincidunt est. Ut porttitor a arcu sit amet imperdiet. Vestibulum feugiat et quam quis venenatis. Vestibulum risus ex, maximus ut tincidunt eget, condimentum a velit. Praesent vel lacus pellentesque, efficitur nulla nec, eleifend sapien. Proin eu velit enim. Curabitur ullamcorper nunc non maximus efficitur. Aliquam posuere consequat libero vitae ultrices. Praesent at neque eget nibh condimentum iaculis ac a eros. Quisque sed consectetur lectus. Nam varius metus id accumsan laoreet. Nunc non augue porta, malesuada risus eget, commodo magna. Vestibulum bibendum gravida purus vel consequat. Donec posuere accumsan orci vel pharetra. Donec porta dolor in felis pulvinar gravida ut id purus.<\/p>"
+        }
+    },
+    "lists": {
+        "reasons": {
+            "idx_5697a6ef87af3": {
+                "title": "It's customizable",
+                "icon": "wrench",
+                "description": "<p>You're free to do what ever you want and more similar obvious reasons.<\/p>"
+            },
+            "idx_5697a7589cbf9": {
+                "title": "It's multilingual",
+                "icon": "globe",
+                "description": "<p>You can add how many locales you want! We don't care! You can even add Pig Latin if you feel like it!<\/p>"
+            },
+            "idx_5697a4d22a0a9": {
+                "title": "It's fast",
+                "icon": "flash",
+                "description": "<p>Cache is king! Lorem ipsum and more nonsens text like that. Hello world!<\/p>"
+            }
+        },
+        "footer-links": {
+            "idx_569f5e4e6340f": {
+                "label": "Github",
+                "url": "https:\/\/github.com\/RiverAB",
+                "target": "_blank",
+                "hidden": "0"
+            },
+            "idx_569f5f2bef82f": {
+                "label": "river.se",
+                "url": "http:\/\/river.se",
+                "target": "_blank"
+            }
+        }
+    }
+}

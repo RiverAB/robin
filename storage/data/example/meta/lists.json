@@ -1,0 +1,63 @@
+{
+
+    "reasons": {
+        "name": "Reasons",
+        "key": "reasons",
+        "show_in_admin": [
+            "title"
+        ],
+        "fields": {
+            "title": {
+                "name": "Title",
+                "type": "string"
+            },
+            "icon": {
+                "name": "Icon",
+                "description": "Icon names can be found <a href=\"https://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank\">here</a>",
+                "type": "string"
+            },
+            "description": {
+                "name": "Text",
+                "type": "wysiwyg"
+            }
+        }
+    },
+    "footer-links": {
+        "name": "Footer links",
+        "key": "footer-links",
+        "show_in_admin": [
+            "label",
+            "url"
+        ],
+        "fields": {
+            "label": {
+                "name": "Label",
+                "type": "string"
+            },
+            "url": {
+                "name": "Url",
+                "type": "string"
+            },
+            "target": {
+                "name": "Target",
+                "type": "string"
+            },
+            "hidden": {
+                "name": "Visibility",
+                "type": "radio",
+                "default": 0,
+                "choices": [
+                    {
+                        "label": "Show",
+                        "value": 0
+                    },
+                    {
+                        "label": "Hide",
+                        "value": 1
+                    }
+                ]
+            }
+        }
+    }
+
+}

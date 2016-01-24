@@ -1,0 +1,97 @@
+{
+    "header": {
+        "name": "Header",
+        "key": "header",
+        "fields": {
+            "hero_text": {
+                "name": "Hero text",
+                "type": "string"
+            },
+            "hero_tagline": {
+                "name": "Hero tagline",
+                "type": "string"
+            },
+            "hero_image": {
+                "name": "Hero background image",
+                "type": "file"
+            },
+            "hero_bg_color": {
+                "name": "Hero background color (#RGB)",
+                "type": "string"
+            },
+            "visibility": {
+                "name": "Section visibility",
+                "type": "radio",
+                "choices": [
+                    {
+                        "label": "Show",
+                        "value": 1
+                    },
+                    {
+                        "label": "Hide",
+                        "value": 0
+                    }
+                ]
+            }
+        }
+    },
+
+    "section-1": {
+        "name": "Section 1",
+        "key": "section-1",
+        "fields": {
+            "title": {
+                "name": "Title field name (About us section)",
+                "description": "Title field description (About us section)",
+                "type": "string"
+            },
+            "test": {
+                "name": "Example check boxes",
+                "type": "checkbox",
+                "choices": [
+                    {
+                        "label": "First choice",
+                        "value": "first choice"
+                    }
+                ]
+            },
+            "radio": {
+                "name": "Example radio buttons",
+                "type": "radio",
+                "choices": [
+                    {
+                        "label": "First choice",
+                        "value": "first choice"
+                    },
+                    {
+                        "label": "Second choice",
+                        "value": "second choice"
+                    }
+                ]
+            },
+            "content": {
+                "name": "Content field name (About us section)",
+                "description": "Content field description (About us section)",
+                "type": "wysiwyg"
+            }
+        }
+    },
+    
+    "section-2": {
+        "name": "Section 2",
+        "key": "section-2",
+        "fields": {
+            "title": {
+                "name": "Title field name (About us section)",
+                "description": "Title field description (About us section)",
+                "type": "string"
+            },
+            "content": {
+                "name": "Content field name (About us section)",
+                "description": "Content field description (About us section)",
+                "type": "wysiwyg"
+            }
+        }
+    }
+
+}

@@ -1,0 +1,16 @@
+{
+    "site": {
+        "name": "Site settings",
+        "key": "site",
+        "fields": {
+            "site-title": {
+                "name": "Site title",
+                "type": "string"
+            },
+            "copyright": {
+                "name": "Copyright",
+                "type": "string"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "river/robin",
+    "description": "A proper CMS for one page websites",
+    "type": "project",
+    "require": {
+        "river/robin-core": "dev-develop"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Magnus Eriksson",
+            "email": "magnus.eriksson@river.se"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
